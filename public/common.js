@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{26:function(e,o,n){"use strict";Object.defineProperty(o,"__esModule",{value:!0});var t,l=n(1),u=(t=l)&&t.__esModule?t:{default:t};o.default=function(e){return u.default.createElement("span",{style:{color:e.color||"red"}},"Hello Component!")}}}]);
+//# sourceMappingURL=common.js.map
